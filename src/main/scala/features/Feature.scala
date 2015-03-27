@@ -1,0 +1,3 @@
+package features
+
+class Feature
